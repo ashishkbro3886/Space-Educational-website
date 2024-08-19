@@ -1,0 +1,23 @@
+body{
+    background-image: url(new.jpg);
+    
+    background-size: cover;
+
+}
+a{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+
+}
+a:hover{
+    color: coral;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: coral;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(186, 218, 137);
+}

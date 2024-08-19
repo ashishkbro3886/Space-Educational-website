@@ -1,0 +1,43 @@
+body{
+    background-image: url(new1.jpg);
+    background-position: center;
+    background-size: contain;
+    
+    
+    
+}
+
+
+
+a{
+    text-decoration: none;
+    color: azure;
+}
+/*a:visited{
+    color: azure;
+}*/
+a:hover{
+    color: rgb(220, 136, 34);
+    
+}
+a:active{
+    color: rgb(4, 4, 112);
+    
+}
+
+#option{
+    color: azure;
+}
+a.one{
+    color: azure;
+
+}
+a.one:hover{
+    color: rgb(230, 117, 37);
+}
+div{
+    color: rgb(249, 14, 14);
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
